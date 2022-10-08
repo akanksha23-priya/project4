@@ -1,0 +1,95 @@
+*{
+    padding: 0;
+    margin: 0; 
+}
+
+#navMid{
+    display: flex;
+    justify-content:space-around;
+    margin-right: 350px;
+    margin-left: 350px;
+   margin-top: -50px;
+    font-size: 25px;
+}
+#navFirst{
+    padding:20px 20px;
+    margin-bottom: 0px;
+    max-width: 100px;
+    max-height: 40px;
+}
+#navEnd{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 80px;
+    margin-left: 100px;
+}
+.icon{
+    padding: 20px;
+    margin-top: -50px;
+    
+}
+#imgMain{
+    display: flex;
+    justify-content: right;
+    position: absolute;
+    top:10px;
+    bottom: 200px;
+   left: 1000px;
+   height: 600px;
+   width: 435px;
+   margin: 100px ;
+}
+#monstera{
+   font-size: 80px;
+}
+#midWholePart11{
+    font-size: 20px;
+    margin-left: 100px;
+    margin-top: 130px;
+}
+
+#midWholePart13{
+     
+    margin-left: 150px;
+    display: flex;
+    justify-content: flex-start;
+    
+    
+    
+}
+.midWholePart13Parts{
+    padding: 30px;
+    display: flex;
+
+}
+.dis{
+    margin-left: 120px;
+    margin-top: 50px;
+    border: 0px;
+    border-radius: 80px;
+    padding: 15px 25px;
+   font-size: 26px;
+   background-color:#466d50;
+   color: white;
+
+}
+
+#feeding{ 
+    max-width: 60px;
+    
+}
+#light{
+    max-width: 35px;
+}
+#care{
+    max-width: 45px;
+}
+
+   
+
+
+    
+
+
+
+
